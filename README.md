@@ -4,7 +4,7 @@
 * Bu veri setinde 10 dakikada bir kaydedilen 14 farklı ölçüm (hava sıcaklığı, hava basıncı, nem ve vb veriler)
 içeren birkaç yıllık veri bulunuyor.
 * Bu verilere göre hava sıcaklığı tahmini yapan model geliştirdik.
-* Evrişimli ağlarıyla dizi işleme (1B evrişim işlemi)
+* Evrişimli ağlarla dizi işleme (1B evrişim işlemi)
 
 ![Screenshot_2020-03-30_20-41-50](https://user-images.githubusercontent.com/54184905/77947435-96602680-72cc-11ea-8e5b-84018ae112e4.png)
 
